@@ -11,4 +11,4 @@
 - Install dependencies `yarn install`
 - Start dev mode `yarn start`
 
-Demo: [!!!](https)
+Demo: [https://brgroup-test-task.vercel.app/](https://brgroup-test-task.vercel.app/)
